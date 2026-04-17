@@ -1,0 +1,5 @@
+PHASE=3b
+STATUS=DONE
+FILES_MODIFIED=SessionView.swift
+FILES_CREATED=SpeechService.swift,VoiceButton.swift,Info.plist
+BUILD_RESULT=pass

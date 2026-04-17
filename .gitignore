@@ -1,0 +1,11 @@
+.build/
+.swiftpm/
+*.xcuserstate
+*.xcuserdatad
+DerivedData/
+*.xcworkspace/xcuserdata/
+xcuserdata/
+.DS_Store
+*.o
+*.d
+*.swp
